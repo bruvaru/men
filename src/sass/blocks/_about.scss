@@ -1,0 +1,28 @@
+.about {
+    background-color: #F6F6F6;
+    padding: 104px 0px 91px 0px;
+    background-size: 100% 100%;
+    &__title {
+        padding: 32px;
+        text-align: center;
+        font-size: 34px;
+        color: #070707;
+      
+    
+    }
+    &__descr {
+        padding-bottom: 32px;
+        font-size: 20px;
+        
+        text-align: center;
+        color: #070707;
+        p {
+            padding:50px;  
+            line-height: 20px;
+           
+          }
+    }
+    
+   
+   
+}

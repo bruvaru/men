@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1145px;
+    margin: 0 auto;
+    padding-bottom: 104px;
+   
+}
+
+@import "blocks/menu";
+@import "blocks/title";
+@import "blocks/promo";
+@import "blocks/about";
+@import "blocks/skills";
+@import "blocks/rating";
